@@ -6,10 +6,12 @@ This repository contains my coursework, practice notebooks, and projects from th
 The TensorFlow Developer Specialization focuses on building and deploying deep learning models using TensorFlow. It covers the essentials of neural networks, computer vision, natural language processing, time-series forecasting, and model deployment techniques.
 
 ## Repository Structure
+```
 ├── Course 1 - Introduction to TensorFlow for AI, ML, and DL/
 ├── Course 2 - Convolutional Neural Networks in TensorFlow/
 ├── Course 3 - Natural Language Processing in TensorFlow/
 └── Course 4 - Sequences, Time Series and Prediction/
+```
 
 
 ## Course Contents
